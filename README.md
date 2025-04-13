@@ -1,7 +1,7 @@
 # Task Tracker CLI
 
 This is a simple command-line interface (CLI) task management application built with Node.js. It allows you to add, list, mark, update, and delete tasks.
-This project fulfills the requirements of a basic Task Tracker CLI challenge on roadmap.sh by providing essential task management functionalities through command-line interactions.
+This project fulfills the requirements of a basic Task Tracker CLI challenge on [roadmap.sh](https://roadmap.sh/projects/task-tracker) by providing essential task management functionalities through command-line interactions.
 
 ## Features
 
@@ -9,12 +9,6 @@ This project fulfills the requirements of a basic Task Tracker CLI challenge on 
 * Provides functions for adding, updating, marking, deleting, and listing tasks.
 * Uses **process.argv** to handle command-line arguments and execute the corresponding functions.
 * Uses the **readline** module to handle user input.
-
-* **Add Task:** Add a new task with a description.
-* **List Tasks:** View all tasks or filter by status (todo, in-progress, done).
-* **Mark Task:** Update the status of an existing task to "in-progress" or "done".
-* **Update Task:** Modify the description of an existing task.
-* **Delete Task:** Remove a task from the list.
 
 ## Prerequisites
 
